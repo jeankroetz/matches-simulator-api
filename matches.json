@@ -15,5 +15,39 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png",
       "estrelas": 5
     }
+  },
+  {
+    "descricao": "Eliminatórias da COPA 2022",
+    "local": {
+      "nome": "Estádio Centenário",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Uruguay",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png",
+      "estrelas": 4
+    },
+    "visitante": {
+      "nome": "Brasil",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png",
+      "estrelas": 5
+    }
+  },
+  {
+    "descricao": "Eliminatórias da COPA 2022",
+    "local": {
+      "nome": "Arena",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png",
+      "estrelas": 5
+    },
+    "visitante": {
+      "nome": "Chile",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png",
+      "estrelas": 3
+    }
   }
 ]
